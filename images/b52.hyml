@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>project1</title>
+</body>
+</html>
+
+  </head>
+  <body>
+
+    <header>
+      <img src="u2.jpg" alt="" width="1520" height="110">
+    </header>
+ <font color="white">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color: #000000;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #ff0000;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+}
+
+.navbar a:hover {
+  background-color: #ff0000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+</style>
+<body>
+  <center>
+    <div class="navbar">
+      <a href=""><i class="blank"></i></a>
+      <a href=""><i class="blank"></i></a>
+      <a href=""><i class="blank"></i></a>
+      <a href="project1.html"><i class="fa fa-fw fa-home"></i> Home</a>
+      <a href="#"><i class="fa fa-fw fa-search"></i> Search</a>
+      <a href="men.html"><i class="fa fa-fw fabn-MEN'S"></i>MEN'S</a>
+      <a href="women.html">WOMEN'S</a>
+      <a href="schoolbags.html">BACKPACK</a>
+      <a href="PROJECT3.html">TRAVEL BAGS</a>
+      <a href="sling.html">Sling BAGS</a>
+      <div class="dropdown">
+      <button class="dropbtn" onclick="myFunction()">BRANDS
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content" id="myDropdown">
+        <a href="gucci.html">GUCCI</a>
+        <a href="prada.html">PRADA</a>
+        <a href="hermes.html">HERMES</a>
+        <a href="GIVENCHY.HTML">GIVENCHY</a>
+      </div>
+      </div>
+      <a href="login.html"><i class="fa fa-fw fa-user"></i> Login</a>
+      <a href="signup.html"></i> Sign up</a>
+      <a href="contactus.html"><i class="fa fa-fw fa-envelope"></i>Contact Us</a>
+      <a href=""><img src="cart2.png" width="40" height="25" alt="cart1"></a>
+    </div>
+</center>
+<script>
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>
+</body>
+
+</font>
+<body>
+  <table width="1500" border="0" cellpadding="2">
+      <tr>
+        <td>
+        <img src="b51.jpg" width="300" alt="b51">
+        </td>
+
+        <td>
+        <h2>Anti Theft Bag With USB Charging Port For Men & Women, Smart Bag, Water Resistant Backpack School Bag, Large Capacity Business Backpack</h2>
+         <p><h3>Ash</h3></p>
+         {<strike>₦ 15,000</strike>}
+             <h2>₦ 11,000 </h2>
+        <button type="submit" name="button">BUY</button>
+ <button type="submit" name="add_to_cart" class="btn btn-default add-to-cart" value="ADD TO CART"> <i class="fa fa-shopping-cart"></i>  ADD TO CART</button>
+
+<h2>Rating</h2>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star checked"></span>
+<span class="fa fa-star"></span>
+
+        </td>
+          </tr>
+
+          <tr>
+            <td>
+              <img src= width="220" alt="">
+            </td>
+
+                  <td>
+                    <p><h3>Description</h3></p>
+                    Thick soft handle
+
+  A thick and soft handle is very important for a backpack, the handle of this bag is padded with soft foam and mesh,the surface is coating with soft rubber.
+
+  Special material
+
+  The materials of outside is high dense polyester,metal zippers, brand logo,it looks very fashion and sturdy.
+
+  Matel zippers
+
+  Metal zippers will work more well and last a long life, a sturdy backpack with metal zippers will looks more stylish.
+
+  Key Features
+
+      Arctic Hunter Real Brand
+      Material:Waterproof Oxford+polyester
+      Carrying System:Arcuate Shoulder Strap
+      With USB Charging Interface
+      Burden-reducing & Anti-theft & Waterproof & Anti-scrape
+      Shock-resistant & Breathable & Wear-resistant
+      Used for Casual, Business, Travel,School etc
+      Size:47*35*18 inch
+      Capacity:28L
+
+  Specifications of ARCTIC HUNTER Laptop Backpack,Anti Theft Bag With USB Charging Port For Men & Women, Smart Bag, Water Resistant Backpack School Bag, Large Capacity Business Backpack Fits UNDER 18" Laptop & Notebook B32 - Black
+  SKU
+  AR010AC0D5MINNAFAMZ
+  Weight (kg)
+  1.2
+  Colour
+  Black
+
+
+              </td>
+              </tr>
+
+  </table>
+
+
+
+
+<footer>
+  <center><a href="aboutus.html"><i class="fa fa-angle-double-right"></i>About Us</a>  <span style="margin-left: 0.6em;">
+  <a href="queries.html"><i class="fa fa-angle-double-right"></i>Queries</a>
+
+</div>
+<br/>
+<div class="col-xs-12 col-sm-4 col-md-4">
+
+<center><a href="contactus.html"><i class="fa fa-angle-double-right"></i>Contact us</a>   <span style="margin-left: 0.6em;">
+    <a href="https://maps.google.com/maps?q=aptech%20center%20kano&t=&z=17&"></i>Our Location</a>
+</div>
+<br/>
+
+<div>
+    <center><a href="https://twitter.com/ninety_nine999"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.instagram.com/omar.abbah/"><i class="fa fa-instagram"></i></a>
+</div>
+</footer>
+
+
+  </body>
+</html>
